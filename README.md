@@ -21,16 +21,29 @@ O projeto é um aplicativo de CRUD (Create, Read, Update, Delete) desenvolvido c
    - Permite excluir um usuário existente selecionado na lista.
    
 ## COMO USAR?
-1. **Adicionar Usuário:**
+1. **Instalando as dependências:**
+   - Antes de executar o aplicativo, certifique-se de instalar todas as dependências necessárias. No terminal, execute o seguinte comando para instalar as dependências listadas no arquivo `requirements.txt` no diretório: `CODIGO`:
+   ```bash
+   pip install -r requirements.txt
+   ```
+   - Isso instruirá o pip a ler o arquivo requirements.txt e instalar todas as dependências listadas.
+
+2. **Execução do Código:**
+   - Execute o arquivo, no diretório `CODIGO`, usando o comando:
+     ```sh
+     python CODIGO.py
+     ```
+
+3. **Adicionar Usuário:**
    - Clique no botão "Adicionar".
    - Digite o nome do novo usuário no diálogo que aparece e clique em "OK".
 
-2. **Editar Usuário:**
+4. **Editar Usuário:**
    - Selecione um usuário na lista.
    - Clique no botão "Editar".
    - Digite o novo nome para o usuário no diálogo que aparece e clique em "OK".
 
-3. **Excluir Usuário:**
+5. **Excluir Usuário:**
    - Selecione um usuário na lista.
    - Clique no botão "Excluir".
 
