@@ -1,0 +1,3 @@
+wxpython
+wx
+sqlite3
