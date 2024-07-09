@@ -52,6 +52,7 @@ O projeto é um aplicativo de CRUD (Create, Read, Update, Delete) desenvolvido c
 * [CURSO DE PYTHON](https://github.com/VILHALVA/CURSO-DE-PYTHON)
 * [CURSO DE WXPYTHON](https://github.com/VILHALVA/CURSO-DE-WXPYTHON)
 * [CURSO DE SQLITE](https://github.com/VILHALVA/CURSO-DE-SQLITE)
+* [CURSO DE PYTHON COM SQLITE](https://github.com/VILHALVA/CURSO-DE-PYTHON-COM-SQLITE)
 * [CONFIRA MAIS CURSOS](https://github.com/VILHALVA?tab=repositories&q=+topic:CURSO)
 
 ## CREDITOS:
